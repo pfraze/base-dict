@@ -1,0 +1,15 @@
+{
+  "name": "base-dict",
+  "description": "Output a buffer in words using a dictionary",
+  "version": "0.1.0",
+  "homepage": "https://github.com/pfraze/base-dict",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pfraze/base-dict.git"
+  },
+  "dependencies": {
+    "bitparser": "~0.1.1"
+  },
+  "author": "Paul Frazee <pfrazee@gmail.com>",
+  "license": "MIT"
+}
